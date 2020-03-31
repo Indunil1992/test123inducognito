@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "test123inducognito.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 3,
+          "column": 49
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -315,7 +315,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585657274009
+    "lastSave": 1585657753915
   },
   "VCS_STATE": {
     "provider": "GitHub",
